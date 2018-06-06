@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Collection;
 import java.util.Map;
 
+/*Controller to provide
+access to Officer nodes and their attributes using different rest interfaces with different input parameters*/
 @RestController
 @RequestMapping("/officer")
 public class OfficerController {
