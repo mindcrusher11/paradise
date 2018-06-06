@@ -10,3 +10,7 @@ http://localhost:8080/officer/byname?title=The%20Duchy%20of%20Lancaster
 http://localhost:8080/officer/shortestPath?startNodeId=80133535&endNodeId=84100003
 
 http://localhost:8080/officer/byname?title=The%20Duchy%20of%20Lancaster
+
+Command to run application on shell
+
+mvn spring-boot:run
